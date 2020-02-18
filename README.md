@@ -1,8 +1,6 @@
 # PicPay-React-Native
 Este projeto é um clone do aplicativo PicPay feito no React Native.
 
-# PicPay-Clone
-
 <h1 align="center">
 <img src="https://logodownload.org/wp-content/uploads/2018/05/picpay-logo.png" width="300px">
 </h1>
